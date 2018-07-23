@@ -1,8 +1,8 @@
-# 2018-SYSU-Computer-Graphic
+# 2018-SYSU-CG
 
 
 
-Personal CG assignments' backup for computer graphic course, SYSU, 2018.
+Personal assignments' backup for computer graphic course@sysu2018.
 
 
 
